@@ -1,0 +1,14 @@
+[2025-04-17 23:47:42,332] 9 root - INFO - Data_Ingestion  is started
+[2025-04-17 23:47:42,334] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-17 23:47:42,335] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-17 23:47:42,335] 26 root - INFO - created directory at: artifacts
+[2025-04-17 23:47:42,335] 26 root - INFO - created directory at: artifacts/data_ingestion
+[2025-04-17 23:47:42,335] 21 root - INFO - file already exists of size: ~7718 KB
+[2025-04-17 23:47:42,493] 12 root - INFO - Data_Ingestion  is completed
+[2025-04-17 23:47:42,493] 16 root - INFO - Data_Validation  is started
+[2025-04-17 23:47:42,494] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-17 23:47:42,495] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-17 23:47:42,495] 26 root - INFO - created directory at: artifacts
+[2025-04-17 23:47:42,495] 26 root - INFO - created directory at: artifacts/data_ingestion
+[2025-04-17 23:47:42,495] 21 root - INFO - file already exists of size: ~7718 KB
+[2025-04-17 23:47:42,612] 19 root - INFO - Data_Validation  is completed

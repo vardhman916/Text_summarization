@@ -67,6 +67,16 @@ Hyperparameters & training	       params.yaml
 7. pipeline
 8. main.py
 9 update app.py
+ config.yaml = all file path
+ constants = read config.yaml and params.yaml
+ common = read yaml, create direct,get size
+ entity = here we will paste dataValidationConfig
+ Config1 = get_data_validation_config
+
+
+
+
+
 
 
 

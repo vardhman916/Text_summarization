@@ -17,3 +17,8 @@ class DataIngestionConfig:
         self.local_data_file = local_data_file
         self.unzip_dir = unzip_dir
 """
+@dataclass(frozen = True)
+class DataValidationConfig:
+    root_dir:Path
+    status_file:Path
+    All_required_file:list
