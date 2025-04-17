@@ -1,0 +1,5 @@
+[2025-04-15 13:49:57,855] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-15 13:49:57,861] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-15 13:49:57,862] 26 root - INFO - created directory at: artifacts
+[2025-04-15 13:49:57,862] 26 root - INFO - created directory at: artifacts/data_ingestion
+[2025-04-15 13:49:57,862] 21 root - INFO - file already exists of size: ~7718 KB

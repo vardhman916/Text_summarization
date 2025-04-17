@@ -18,13 +18,16 @@ LIST_OF_FILE = {
     f"src/{project_name}/exception.py",
     f"src/{project_name}/logger.py",
     f"src/{project_name}/utils.py",
+    f"src/{project_name}/config1/__init__.py",
+    f"src/{project_name}/config/configuration.py",
+    f"src/{project_name}/common.py",
+    f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/constants/__init__.py",
     "config/config.yaml",
     "app.py",
     "Dockerfile",
     "main.py",
-    "setup.py",
-    "Notebook.ipynb"
+    "setup.py"
 }
 for file in LIST_OF_FILE:
     file_path = Path(file)
