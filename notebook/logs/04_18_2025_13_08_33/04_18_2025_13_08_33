@@ -1,0 +1,6 @@
+[2025-04-18 13:11:29,714] 54 datasets - INFO - PyTorch version 2.6.0 available.
+[2025-04-18 13:20:47,213] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-18 13:22:32,052] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-18 13:22:32,062] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-18 13:22:32,063] 26 root - INFO - created directory at: artifacts
+[2025-04-18 13:22:32,064] 26 root - INFO - created directory at: artifacts/model_trainer

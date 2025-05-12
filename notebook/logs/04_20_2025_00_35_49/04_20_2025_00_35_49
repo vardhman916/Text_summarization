@@ -1,0 +1,13 @@
+[2025-04-20 00:35:56,518] 54 datasets - INFO - PyTorch version 2.6.0+cu118 available.
+[2025-04-20 00:36:49,248] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-20 00:36:49,267] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-20 00:36:49,270] 26 root - INFO - created directory at: artifacts
+[2025-04-20 00:36:49,270] 26 root - INFO - created directory at: artifacts/model_trainer
+[2025-04-20 00:44:44,552] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-20 00:44:44,562] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-20 00:44:44,564] 26 root - INFO - created directory at: artifacts
+[2025-04-20 00:44:44,564] 26 root - INFO - created directory at: artifacts/model_trainer
+[2025-04-20 01:09:32,940] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-20 01:09:32,956] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-20 01:09:32,959] 26 root - INFO - created directory at: artifacts
+[2025-04-20 01:09:32,962] 26 root - INFO - created directory at: artifacts/model_trainer

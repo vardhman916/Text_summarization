@@ -1,0 +1,8 @@
+[2025-05-12 15:00:01,053] 54 datasets - INFO - PyTorch version 2.6.0+cu118 available.
+[2025-05-12 15:00:03,702] 43 root - INFO - Model Evaluation  is started
+[2025-05-12 15:00:03,705] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-05-12 15:00:03,708] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-05-12 15:00:03,708] 26 root - INFO - created directory at: artifacts
+[2025-05-12 15:00:03,708] 26 root - INFO - created directory at: artifacts/model_evaluation
+[2025-05-12 15:00:18,247] 83 absl - INFO - Using default tokenizer.
+[2025-05-12 15:00:18,486] 46 root - INFO - Model Evaluation  is completed

@@ -1,0 +1,8 @@
+[2025-04-20 13:40:57,459] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-20 13:40:57,516] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-20 13:40:57,518] 26 root - INFO - created directory at: artifacts
+[2025-04-20 13:40:57,518] 26 root - INFO - created directory at: artifacts/model_trainer
+[2025-04-20 13:41:30,285] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-20 13:41:30,288] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-20 13:41:30,289] 26 root - INFO - created directory at: artifacts
+[2025-04-20 13:41:30,289] 26 root - INFO - created directory at: artifacts/model_trainer

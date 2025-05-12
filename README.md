@@ -16,8 +16,8 @@ data_validation:
 
 data_transformation:
   root_dir: artifacts/data_transformation
-  tokenizer_name: t5-base
-  transformed_data_dir: artifacts/data_transformation/tokenized_data
+  data_path: artifacts/data_ingestion/samsum_dataset
+  tokenizer_name: google/pegasus-cnn_dailymail
 
 model_trainer:
   root_dir: artifacts/model_trainer
@@ -72,6 +72,7 @@ Hyperparameters & training	       params.yaml
  common = read yaml, create direct,get size
  entity = here we will paste dataValidationConfig
  Config1 = get_data_validation_config
+ pipeline = assign one folder and paste code
 
 
 

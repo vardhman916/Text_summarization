@@ -1,0 +1,20 @@
+[2025-04-20 14:01:22,596] 54 datasets - INFO - PyTorch version 2.6.0+cu118 available.
+[2025-04-20 14:01:22,917] 13 root - INFO - Data_Ingestion  is started
+[2025-04-20 14:01:22,917] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-20 14:01:22,917] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-20 14:01:22,917] 26 root - INFO - created directory at: artifacts
+[2025-04-20 14:01:22,917] 26 root - INFO - created directory at: artifacts/data_ingestion
+[2025-04-20 14:01:22,917] 21 root - INFO - file already exists of size: ~7718 KB
+[2025-04-20 14:01:23,063] 16 root - INFO - Data_Ingestion  is completed
+[2025-04-20 14:01:23,063] 20 root - INFO - Data_Validation  is started
+[2025-04-20 14:01:23,074] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-20 14:01:23,074] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-20 14:01:23,074] 26 root - INFO - created directory at: artifacts
+[2025-04-20 14:01:23,074] 26 root - INFO - created directory at: artifacts/data_validation
+[2025-04-20 14:01:23,074] 23 root - INFO - Data_Validation  is completed
+[2025-04-20 14:01:23,074] 26 root - INFO - Data_transformation  is started
+[2025-04-20 14:01:23,074] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-04-20 14:01:23,074] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-04-20 14:01:23,074] 26 root - INFO - created directory at: artifacts
+[2025-04-20 14:01:23,074] 26 root - INFO - created directory at: artifacts/data_transformation
+[2025-04-20 14:01:24,158] 29 root - INFO - Data_transformation  is completed
