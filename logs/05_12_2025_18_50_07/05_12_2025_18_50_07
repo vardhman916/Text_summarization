@@ -1,0 +1,5 @@
+[2025-05-12 18:50:16,363] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2025-05-12 18:59:43,191] 16 root - INFO - yaml file:config\config.yaml loaded sucessfully
+[2025-05-12 18:59:43,206] 16 root - INFO - yaml file:params.yaml loaded sucessfully
+[2025-05-12 18:59:43,207] 26 root - INFO - created directory at: artifacts
+[2025-05-12 18:59:43,207] 26 root - INFO - created directory at: artifacts/model_trainer
